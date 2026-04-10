@@ -4,6 +4,7 @@ phases:
   install:
     commands:
       - npm install
+
   build:
     commands:
       - npm run build
@@ -11,6 +12,4 @@ phases:
 artifacts:
   files:
     - "**/*"
-  base-directory: build
-
-  
+  base-directory: dist
