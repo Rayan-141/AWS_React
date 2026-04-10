@@ -4,7 +4,7 @@ function App() {
   return (
     <div>
       <img src={reactLogo} alt="React logo" width="120" />
-      <h1>Hello React</h1>
+      <h1>Hello Rayan</h1>
     </div>
   )
 }
